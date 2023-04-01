@@ -1,0 +1,8 @@
+# Ignore all files that are prefixed with a dot
+.venv
+.env
+
+# Ignore pycache files
+*__pycache__/*
+*.pyc*
+
